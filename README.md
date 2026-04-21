@@ -7,11 +7,22 @@
 
 <br/>
 
+### 🌐 Portfolio
+<a href="https://hammadaiautomation.lovable.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_My_Portfolio-hammadaiautomation.lovable.app-6E40C9?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aiwithhammad2026)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@aiwithhammad2026)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aiwithhammad26)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1DR8pkB1Mz/)
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@aiwithhammad2026)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aiwithhammad2026&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -19,11 +30,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hammad** — a Computer Science student from 🇵🇰 Pakistan obsessed with one thing: making AI *actually useful* in real life. I don't just study AI theory — I build with it, automate with it, vibe code with it, and teach it.
+I'm **Hammad** — a Computer Science student from 🇵🇰 Pakistan obsessed with one thing: making AI *actually useful* in real life. I don't just study AI theory — I **build** with it, **automate** with it, **vibe code** with it, and **teach** it.
 
 My journey started with a simple question: *"Why do people waste hours on tasks a computer could do in seconds?"* That question pulled me deep into **AI automation**, where I now design intelligent systems that work while you sleep — and I build a lot of them through **vibe coding**: flowing with ideas, iterating fast, and letting intuition guide the process.
 
-> 🚀 *I turn boring manual tasks into smart AI-powered automations — and I enjoy every second of the process.*
+🌐 **Check out my work:** [hammadaiautomation.lovable.app](https://hammadaiautomation.lovable.app)
+
+> 🚀 *I turn boring manual tasks into smart AI-powered automations — and I enjoy every second of it.*
 
 ---
 
@@ -45,12 +58,13 @@ Whether it's a lead generation pipeline, a customer support bot, a content sched
 
 Vibe coding is how I explore, prototype, and ship fast. It's about:
 
-- 💡 Starting with an idea, not a plan
+- 💡 Starting with an idea, not a rigid plan
 - ⚡ Building in flow state — fast iterations, real feedback
 - 🎯 Shipping something that *works* before perfecting it
 - 🤝 Using AI as a co-pilot, not just a tool
+- 🔥 Turning 10-minute ideas into real, working projects
 
-Some of my best automations started as vibe sessions that turned into production systems.
+> *Some of my best automations started as vibe sessions that turned into production systems.*
 
 ---
 
@@ -60,7 +74,7 @@ Some of my best automations started as vibe sessions that turned into production
 - 🤖 AI agents for task execution & decision-making
 - ⚡ Vibe-coded tools and AI-powered mini-projects
 - 📐 Workflow optimization for real-world use cases
-- 🏗️ Improving automation reliability and scalability
+- 🌐 Growing my portfolio at [hammadaiautomation.lovable.app](https://hammadaiautomation.lovable.app)
 
 ---
 
@@ -105,12 +119,12 @@ Some of my best automations started as vibe sessions that turned into production
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aiwithhammad2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithhammad2026&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiwithhammad2026&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -129,8 +143,9 @@ Some of my best automations started as vibe sessions that turned into production
 
 <div align="center">
 
-| Platform | Handle |
-|----------|--------|
+| Platform | Link |
+|----------|------|
+| 🚀 Portfolio | [hammadaiautomation.lovable.app](https://hammadaiautomation.lovable.app) |
 | 📸 Instagram | [@aiwithhammad2026](https://www.instagram.com/aiwithhammad2026) |
 | 🎵 TikTok | [@aiwithhammad2026](https://www.tiktok.com/@aiwithhammad2026) |
 | ❌ X (Twitter) | [@aiwithhammad26](https://x.com/aiwithhammad26) |
@@ -143,8 +158,8 @@ Some of my best automations started as vibe sessions that turned into production
 
 <div align="center">
 
-⭐ *If you like my work, feel free to follow and star my repositories!*
+*"Automate the boring. Build the exciting. Vibe through it all."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+⭐ *If you like my work, follow me and star my repositories!*
 
 </div>
